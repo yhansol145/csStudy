@@ -42,3 +42,7 @@
  - 그래프(Graph)
  - 테이블(Table)
  - 셋(Set)
+
+```
+Reference by  "https://www.interviewbit.com/data-structure-interview-questions/"
+```
