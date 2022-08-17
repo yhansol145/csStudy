@@ -10,4 +10,4 @@
 [JVM](src/main/java/Java/JVM.md)
 
 #### 자료구조
-[자료구조란?]()
+[자료구조란?](src/main/java/DataStructure/dataStructure.md)
